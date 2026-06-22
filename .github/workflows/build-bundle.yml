@@ -1,4 +1,4 @@
-name: Build Kettu JS Bundle and Plugins
+sname: Build Kettu JS Bundle and Plugins
 
 # Build the Kettu JS bundle AND the external plugins, then publish everything
 # onto the `dist` branch as a single force-push so consumers can pin a stable
